@@ -1,0 +1,1 @@
+Great work! I used cat soccer_scores.csv | grep 1959 (after cd into in start_dir/second_dir), but there are many ways to solve this. You were sucessfully able to navigate the directory, find a file and extract the contents you wanted. This will be very useful in future tasks requiring file manipulation (very common!)
